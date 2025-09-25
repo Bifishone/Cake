@@ -34,7 +34,6 @@ LittleCake比LargeCake多了一个“炫酷小操作”，请自行查看~😘
 > Cake/Collector/ICPSearch
 
 - ICPSearch（增加代理池、自定义线程、延时爬取等功能）
-- ENScan（https://github.com/wgpsec/ENScan_GO）
 
 ### 子域名收集
 
